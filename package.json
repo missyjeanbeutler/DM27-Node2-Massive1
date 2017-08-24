@@ -1,0 +1,27 @@
+{
+  "name": "DM27-Node2-Massive1",
+  "version": "1.0.0",
+  "description": "A repo with notes and code from this lecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missyjeanbeutler/DM27-Node2-Massive1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missyjeanbeutler/DM27-Node2-Massive1/issues"
+  },
+  "homepage": "https://github.com/missyjeanbeutler/DM27-Node2-Massive1#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "massive": "^3.2.2"
+  }
+}
