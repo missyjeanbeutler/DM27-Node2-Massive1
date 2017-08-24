@@ -12,6 +12,8 @@ INSERT INTO users
 VALUES
 ('Betty', 12, 'England'),
 ('Jane', 42, 'Greece'),
-('Betty', 12, 'England'),
+('Betty', 15, 'England'),
 ('Roberto', 35, 'USA'),
+('Jane', 40, 'USA'),
+('George', 40, 'England'),
 ('Rusty', 47, 'Finland');
